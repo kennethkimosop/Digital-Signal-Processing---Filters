@@ -30,6 +30,4 @@ The main implementation is contained in:
 - Google Colab
 - Jupyter Notebook
 
-## Author
 
-Kenneth Kimosop
